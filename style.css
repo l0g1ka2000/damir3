@@ -1,0 +1,56 @@
+body {
+    font-family: sans-serif;
+    background-color: rgb(247, 241, 156);
+    text-align: center;
+}
+
+.info{
+    width: 1000px;
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: auto;
+    margin-right: auto;
+    gap: 50px;
+}
+article{
+    background-color: rgb(245, 235, 92);
+    text-align: center;
+    padding-bottom: 50px;
+    border: 10px double black ;
+}
+article a{
+    text-decoration: none;
+    font-size: 30px;
+    color: black;
+    border: 10px double black ;
+    padding: 5px;
+
+}
+img{
+    width: 400px;
+    height: 400px;
+    margin-bottom: 50px;
+}
+.main_info{
+    text-align: justify;
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 24px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+nav{
+   margin-top: 50px;
+   margin-bottom: 50px ;
+}
+.button{
+    text-decoration: none;
+    font-size: 30px;
+    color: black;
+    border: 10px double black ;
+    padding: 5px;
+    
+}
+
+
